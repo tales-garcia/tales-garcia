@@ -3,7 +3,7 @@
 A resume of myself:
 
 - I have experience at React, NodeJS, ReactNative, javascript(of course), typescript.
-- I am currently learning **@rocketseat GoStack** 🚀!
+- I am currently learning **@Rocketseat GoStack** 🚀!
 - Coding is my favorite hobbie 💻!
 - I really love **TabNine** 😄!
 - I love participating in **hackathons** from @shawee-io
