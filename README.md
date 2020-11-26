@@ -12,4 +12,4 @@ A resume of myself:
 - **https://www.linkedin.com/in/tales-garcia-b95b851bb/**
 - **here**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tales-garcia&label=Profile%20views&color=0e75b6&style=flat" alt="tales-garcia" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tales-garcia&label=Profile%20views&color=2ea44f&style=flat" alt="tales-garcia" /> </p>
