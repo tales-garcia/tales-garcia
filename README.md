@@ -3,6 +3,7 @@
 A resume of myself:
 
 - I have experience at React, NodeJS, ReactNative, javascript(of course), typescript.
+- 13 years old
 - I am currently learning **@Rocketseat GoStack** 🚀!
 - Coding is my favorite hobby 💻!
 - I really love **TabNine** 😄!
