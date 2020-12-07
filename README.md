@@ -13,4 +13,6 @@ A resume of myself:
 - **https://www.linkedin.com/in/tales-garcia-b95b851bb/**
 - **here**
 
+Meaning of life: `42`
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tales-garcia&label=Profile%20views&color=2ea44f&style=flat" alt="tales-garcia" /> </p>
